@@ -6,4 +6,4 @@
 
 ## Project Review
 
-![](images/gif.gif)
+![](gif.gif)
