@@ -1,6 +1,6 @@
 # Expanding Cards
 
-[Live Demo](https://kemalbabaoglu.github.io/Expanding-Cards(Javascript)/):point_left:
+[Live Demo](https://kemalbabaoglu.github.io/Expanding-Cards-Javascript-/):point_left:
 
 
 
